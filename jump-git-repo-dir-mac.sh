@@ -1,3 +1,4 @@
+# Helps you to jump to a git repository (special directory with `.git` directory) in a Mac OS system
 
 # Requires `fd`, `sed`, `fzf` tools to be installed
 jump () {
